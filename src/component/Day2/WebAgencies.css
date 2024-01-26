@@ -7,21 +7,26 @@
     align-items: center;
 }
 .px-6{
-    padding: 0 172px;
+    padding: 0 357px;
 }
+.px-8{
+    position: relative;
+    left: -143px;
+}
+
 .font{
     font-family: Poppins;
 }
 
 .p{
-    font-size: 15px;
+    font-size: 29px;
     font-weight: 500;
 }
 
 .img{
     position: relative;
     top: -23px;
-    left: -12px;
+    left: -237px;
 
 }
 .img1{
@@ -35,22 +40,35 @@
     color: rgb(176, 176, 43);
     position: relative;
     top: -31px;
-    left: 20px;
+    left: -92px;
 }
 
 .abc {
     position: absolute;
-    left: 279px;
+    left: 519px;
+    width: 20px;
+    height: 105px;
 }
 .bcd{
     position: absolute;
-    left: 511px;
+    left: 970px;
+    width: 20px;
+    height: 105px;
 }
 .cde{
     position: absolute;
-    left: 760px;
+    left: 1450px;
+    width: 20px;
+    height: 105px;
 }
 .def{
     position: absolute;
-    left: 420px;
+    left: 710px;
+    width: 20px;
+    height: 105px;
 }
+
+.px-7{
+    padding: 0 0 0 130px ;
+}
+

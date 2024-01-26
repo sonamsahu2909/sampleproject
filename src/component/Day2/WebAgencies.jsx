@@ -6,14 +6,14 @@ function WebAgencies() {
     <>
       <div className="container-fluid  pt-5 pb-5 bg">
         <div className="container pt-4 text-center">
-          <h5 className="px-6 bg">
+          <h2 className="px-6 bg">
             Creative Web Agency Delievering{" "}
             <span style={{ color: "rgb(108 56 185)" }}>Custom Solutions</span>
-          </h5>
+          </h2>
           <div className="row">
             <div className="col-md-4 pt-4 ">
               <div className="d-flex">
-                <p className="p">
+                <p className="p px-3">
                   Tailored Branding Strategies To Drive Engagement
                 </p>
                 <img src="img/123.png" className="abc" alt="123" />
@@ -35,7 +35,7 @@ function WebAgencies() {
               <img src="img/123.png" className="cde" alt="123" />
               </div>
             </div>
-            <div className="col-md-6 px-4">
+            <div className="col-md-6 pt-3 px-7">
               <div className="d-flex">
                 <img
                   src="img/star2.png"
@@ -54,8 +54,8 @@ function WebAgencies() {
                 <i className="fa fa-star"></i>
               </p>
             </div>
-            <div className="col-md-6 px-4">
-              <p className="p">Latest Web Design Award</p>
+            <div className="col-md-6 pt-3 ">
+              <p className="p px-8">Latest Web Design Award</p>
               <img
                 src="img/cda.png"
                 className="img"
